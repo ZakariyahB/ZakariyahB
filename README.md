@@ -1,9 +1,18 @@
 # 💫 Hey, I'm Zakariyah
-About me: <br/><br/>
-I am an ambitious and curious individual proven in problem-solving and analysis, complemented by my experience in leadership and project management.<br><br>
-Passionate about exploring opportunities that allow me to contribute to innovative projects and gain deeper insights into the transformative potential of technology - a means to improving society.<br><br>
-Interests span software engineering, AI, security, consulting, and academic research.
+### A bit about Me <br/>
 
+I'm an ambitious and intellectually curious individual with a solid foundation in problem-solving and analytical thinking. My journey so far has been shaped by hands-on leadership and project management experience, which continue to sharpen both my technical and interpersonal skills.<br/><br/>
+
+What drives me is the pursuit of innovation — I’m deeply passionate about contributing to impactful projects and uncovering how technology can be harnessed to drive meaningful, lasting change in society.<br/><br/>
+
+## 🎯 Interests
+
+- 💻 Software Engineering  
+- 🤖 ML & AI  
+- 🔐 Cybersecurity  
+- 💼 Technology Consulting
+
+ <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakariyah-Bello) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bello.zakariyah20@gmail.com) 
