@@ -7,8 +7,7 @@ What drives me is the pursuit of innovation — I’m deeply passionate about co
 
 ## 🎯 Interests
 
-- 💻 Software Engineering  
-- 🤖 ML & AI  
+- 💻 Software Engineering & AI
 - 🔐 Cybersecurity  
 - 💼 Technology Consulting
 
