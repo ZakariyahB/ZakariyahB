@@ -1,4 +1,4 @@
-# 💫 Hey, I'm Zakariyah
+# 💫 Hey, I'm Zakariyah 👋🏿
 ### A bit about Me <br/>
 
 I'm an ambitious and intellectually curious individual with a solid foundation in problem-solving and analytical thinking. My journey so far has been shaped by hands-on leadership and project management experience, which continue to sharpen both my technical and interpersonal skills.<br/><br/>
