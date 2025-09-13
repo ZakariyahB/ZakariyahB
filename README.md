@@ -1,4 +1,4 @@
-# 💫 Hey, I'm Zakariyah 👋🏿
+# 💫 Hey, I'm Zakariyah 👋🏿 Computing student at Imperial College London
 ### A bit about Me <br/>
 
 Ambitious and intellectually curious, with a strong foundation in problem solving and analytical thinking. Experienced in leadership and project management, and eager to apply these skills to real-world challenges.<br/><br/>
