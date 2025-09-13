@@ -9,6 +9,7 @@ Ambitious and intellectually curious, with a strong foundation in problem solvin
 - 💻 Software Engineering & AI
 - 🔐 Cybersecurity  
 - 💼 Technology Consulting
+- 🔬 Research
 
  <br/>
 
