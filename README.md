@@ -1,9 +1,7 @@
 # 💫 Hey, I'm Zakariyah 👋🏿
 ### A bit about Me <br/>
 
-I'm an ambitious and intellectually curious individual with a solid foundation in problem-solving and analytical thinking. My journey so far has been shaped by hands-on leadership and project management experience, which continue to sharpen both my technical and interpersonal skills.<br/><br/>
-
-What drives me is the pursuit of innovation — I’m deeply passionate about contributing to impactful projects and uncovering how technology can be harnessed to drive meaningful, lasting change in society.<br/><br/>
+Ambitious and intellectually curious, with a strong foundation in problem solving and analytical thinking. Experienced in leadership and project management, and eager to apply these skills to real-world challenges.<br/><br/>
 
 ## 🎯 Interests
 
@@ -12,6 +10,9 @@ What drives me is the pursuit of innovation — I’m deeply passionate about co
 - 💼 Technology Consulting
 
  <br/>
+
+ Always excited to explore new fields and opportunities that demand creative problem solving.<br/><br/>
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakariyah-Bello) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bello.zakariyah20@gmail.com) 
