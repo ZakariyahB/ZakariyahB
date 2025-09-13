@@ -50,6 +50,7 @@ Ambitious and intellectually curious, with a strong foundation in problem solvin
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZakariyahB&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
