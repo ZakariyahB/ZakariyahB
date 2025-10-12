@@ -1,4 +1,4 @@
-#Hey, I'm Zakariyah 👋🏿 <br/>
+# Hey, I'm Zakariyah 👋🏿 <br/>
 ### Computing student at Imperial College London
 ## A bit about me <br/>
 
