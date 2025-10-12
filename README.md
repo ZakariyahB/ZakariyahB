@@ -39,7 +39,7 @@ I’m a curious thinker who enjoys blending logic and creativity. I have a stron
 ![LangGraph](https://img.shields.io/badge/LangGraph-008080?style=for-the-badge&logo=graph&logoColor=white) 
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) <br/><br/>
 
-**Cloud & Infrastructure** <br/><br/>  
+**Cloud & Infrastructure** <br/><br/>
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) 
 ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
