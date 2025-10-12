@@ -1,8 +1,8 @@
 # 💫 Hey, I'm Zakariyah 👋🏿 <br/>
 ### Computing student at Imperial College London
-## A bit about Me <br/>
+## A bit about me <br/>
 
-Ambitious and intellectually curious, with a strong foundation in problem solving and analytical thinking. Experienced in leadership and project management, and eager to apply these skills to real-world challenges.<br/><br/>
+I'm curious and like to think logically and creatively. I have a strong foundation and experience in problem solving and leadership, alongside project management. I am currently studying CS at Imperial, undertaking year 1 modules in Computing Practical (Haskell, Kotlin, C), Discrete maths, Calculus and more! I'm eager to apply my skills and lived experiences to tackle real-world challenges.<br/><br/>
 
 ## 🎯 Interests
 
