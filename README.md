@@ -60,6 +60,7 @@ I’m a curious thinker who enjoys blending logic and creativity. I have a stron
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) <br/><br/>
 
 
+<!---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZakariyahB&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ZakariyahB&theme=dark&hide_border=true)<br/>
@@ -67,5 +68,7 @@ I’m a curious thinker who enjoys blending logic and creativity. I have a stron
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZakariyahB&icon=0&color=0)](https://visitcount.itsvg.in)
+)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
