@@ -2,7 +2,7 @@
 ### Y1 Computing student at Imperial College London
 ## A bit about me <br/>
 
-I’m a curious thinker who enjoys blending logic and creativity. I have a strong foundation and experience in problem solving and leadership, alongside project management, and I’m now studying CS at Imperial. This year I’m diving into various modules including Computing Practical (Haskell, Kotlin, C), Discrete Maths, Computer Systems, and Calculus. I’m eager to apply my technical skills and experiences to build solutions that address real-world challenges.<br/><br/>
+I’m a curious thinker who enjoys blending logic and creativity. I have a strong foundation and experience in problem solving and leadership, alongside project management, and I’m now studying CS at Imperial. This year I’m diving into various modules including Computing Practical (Haskell, Kotlin, C), Discrete Maths, Logic and Reasoning, Computer Systems, and Calculus. I’m eager to apply my technical skills and experiences to build solutions that address real-world challenges.<br/><br/>
 
 ## 🎯 Interests
 
