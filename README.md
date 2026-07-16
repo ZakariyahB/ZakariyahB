@@ -1,6 +1,6 @@
 ### Hey, I'm Zakariyah** 👋🏿
 
-Y1 Computing student @ Imperial College London. Software engineer in the making - I like turning logic and creativity into solutions for real problems, and building startup ideas in my free time.
+Y1 Computing student @ Imperial College London. Software engineer in the making - I enjoy designing systems, solving complex logic, and pushing AI to its limits to build products that matter.
 
 **Interested in:** Software Engineering · AI · Research · Tech Consulting
 
